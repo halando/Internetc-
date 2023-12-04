@@ -1,0 +1,7 @@
+C:\Users\diak\source\repos\Internet Terkep\Internet Terkep\bin\Debug\Internet Terkep.exe.config
+C:\Users\diak\source\repos\Internet Terkep\Internet Terkep\bin\Debug\Internet Terkep.exe
+C:\Users\diak\source\repos\Internet Terkep\Internet Terkep\bin\Debug\Internet Terkep.pdb
+C:\Users\diak\source\repos\Internet Terkep\Internet Terkep\obj\Debug\Internet Terkep.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\Internet Terkep\Internet Terkep\obj\Debug\Internet Terkep.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\Internet Terkep\Internet Terkep\obj\Debug\Internet Terkep.exe
+C:\Users\diak\source\repos\Internet Terkep\Internet Terkep\obj\Debug\Internet Terkep.pdb

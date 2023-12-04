@@ -1,0 +1,7 @@
+C:\Users\diak\source\repos\Lottoszamok\Lottoszamok\bin\Debug\Lottoszamok.exe.config
+C:\Users\diak\source\repos\Lottoszamok\Lottoszamok\bin\Debug\Lottoszamok.exe
+C:\Users\diak\source\repos\Lottoszamok\Lottoszamok\bin\Debug\Lottoszamok.pdb
+C:\Users\diak\source\repos\Lottoszamok\Lottoszamok\obj\Debug\Lottoszamok.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\Lottoszamok\Lottoszamok\obj\Debug\Lottoszamok.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\Lottoszamok\Lottoszamok\obj\Debug\Lottoszamok.exe
+C:\Users\diak\source\repos\Lottoszamok\Lottoszamok\obj\Debug\Lottoszamok.pdb
